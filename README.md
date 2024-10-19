@@ -27,8 +27,9 @@ It supports the following functionalities:
 ![alt text](https://imgur.com/fy5FLIX.png)
 ![alt text](https://imgur.com/E6xmAgL.png)
 ![alt text](https://imgur.com/PaxbrHJ.png)
-![alt text]("C:\Users\JOHNMOHAMED\OneDrive\Pictures\Screenshots\Screenshot 2024-10-19 220345.png")
-![alt text]("C:\Users\JOHNMOHAMED\OneDrive\Pictures\Screenshots\Screenshot 2024-10-19 220319.png")
+![image](https://github.com/user-attachments/assets/002ac51d-a929-4b49-895e-40d1697dbc47)
+![image](https://github.com/user-attachments/assets/07d470a1-fadf-4c71-9af8-99c64458ed1e)
+
 <br>
 
 ## To do list:
