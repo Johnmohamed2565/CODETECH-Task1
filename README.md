@@ -27,7 +27,8 @@ It supports the following functionalities:
 ![alt text](https://imgur.com/fy5FLIX.png)
 ![alt text](https://imgur.com/E6xmAgL.png)
 ![alt text](https://imgur.com/PaxbrHJ.png)
-
+![alt text]("C:\Users\JOHNMOHAMED\OneDrive\Pictures\Screenshots\Screenshot 2024-10-19 220345.png")
+![alt text]("C:\Users\JOHNMOHAMED\OneDrive\Pictures\Screenshots\Screenshot 2024-10-19 220319.png")
 <br>
 
 ## To do list:
